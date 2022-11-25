@@ -1,4 +1,6 @@
-# Quote Wallpaper Maker Python
+# Quote Wallpaper Maker Python ![image](https://img.shields.io/badge/License-MIT-success)  ![image](https://img.shields.io/badge/Language-Python-blue)
+
+
 Cant find your favourite quoted wallpaper ? Use this tool to easily create some .. 
 
 ## Features:
@@ -25,4 +27,5 @@ Cant find your favourite quoted wallpaper ? Use this tool to easily create some 
 ## UI :
 ![image](https://user-images.githubusercontent.com/65075259/204009710-dcb50aa2-3781-4085-9881-f8d9d27cc6b3.png)
 
-*Original creation by :* **Captn.Knull**
+*Original creation by :* **Captn.Knull**<br>
+*This project is licensed under the terms of the MIT license*
